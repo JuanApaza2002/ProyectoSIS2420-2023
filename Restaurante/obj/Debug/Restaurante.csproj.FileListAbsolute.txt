@@ -1,0 +1,13 @@
+D:\PROYECTO\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+D:\PROYECTO\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+D:\PROYECTO\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+D:\PROYECTO\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.AssemblyReference.cache
+D:\PROYECTO\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.SuggestedBindingRedirects.cache
+D:\PROYECTO\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+D:\PROYECTO\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+D:\PROYECTO\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+D:\PROYECTO\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+D:\PROYECTO\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+D:\PROYECTO\Restaurante\Restaurante\obj\Debug\Restaurante.Frm_Ingreso.resources
+D:\PROYECTO\Restaurante\Restaurante\obj\Debug\Restaurante.Frm_IniciarSesion.resources
+D:\PROYECTO\Restaurante\Restaurante\obj\Debug\Restaurante.Frm_MenuGerente.resources
